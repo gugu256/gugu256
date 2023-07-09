@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gugu256
-- 👀 I’m interested in web dev and other stuff
-- 🌱 I’m currently learning Python, HTML & CSS
-- 💞️ I’m looking to collaborate on everything I can collaborate on!
+- 👀 I’m interested in web dev and python in general
+- 🌱 I’m currently learning C (kind of)
+- 💞️ I’m looking to collaborate on *simple* python and HTML/CSS projects
 - 📫 How to reach me : my discord is `_.gugu._`
 
 <!---
