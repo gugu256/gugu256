@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @gugu256
+- 💻 I'm currently creating a [programming language called G](https://github.com/gugu256/G)
 - 👀 I’m interested in web dev and python in general
 - 🌱 I’m currently learning C (kind of)
 - 💞️ I’m looking to collaborate on *simple* python and HTML/CSS projects
