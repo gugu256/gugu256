@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gugu256
-- 💻 I'm currently creating a [programming language called G](https://github.com/gugu256/G)
+- 💻 I'm currently creating a [programming language called G](https://github.com/gugu256/G) and an [esoteric programming language called logik](https://github.com/gugu256/logik)
 - 👀 I’m interested in web dev and python in general
-- 🌱 I’m currently learning C (kind of)
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on *simple* python and HTML/CSS projects
 - 📫 How to reach me : my discord is `_.gugu._`
 
