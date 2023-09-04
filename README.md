@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gugu256
-- 💻 I'm currently creating a [programming language called TagLang](https://github.com/gugu256/taglang) and a [social media called Shitter.ch](https://github.com/gugu256/shitter)
+- 💻 I create esoteric languages and stuff
 - 👀 I’m interested in Web Development, Python and programming in general
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on *simple* python and HTML/CSS projects
