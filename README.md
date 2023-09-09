@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gugu256
-- 💻 I create esoteric languages and stuff
+- 💻 I create esoteric languages and websites
 - 👀 I’m interested in Web Development, Python and programming in general
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on *simple* python and HTML/CSS projects
