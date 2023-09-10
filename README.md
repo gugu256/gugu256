@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @gugu256
+- 🇫🇷 I'm from Paris, France
 - 💻 I create esoteric languages and websites
-- 👀 I’m interested in Web Development, Python and programming in general
+- 👀 I’m interested in Web Development, Python, interpreters and programming in general
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on *simple* python and HTML/CSS projects
 - 📫 How to reach me : my discord is `_.gugu._`
