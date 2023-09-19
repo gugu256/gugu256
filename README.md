@@ -2,7 +2,7 @@
 - 🇫🇷 I'm from Paris, France
 - 💻 I create interpreters and websites
 - 👀 I’m interested in Web Development, Python, interpreters and programming in general
-- 🌱 I’m currently learning C++
+- 🌱 I'm currently learning C
 - 💞️ I’m looking to collaborate on *simple* python and HTML/CSS projects
 - 📫 How to reach me : my discord is `_.gugu._`
 
