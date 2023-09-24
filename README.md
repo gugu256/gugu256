@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gugu256
+- 👋 Hi, I’m gugu256
 - 🇫🇷 I'm from Paris, France
 - 💻 I create interpreters and websites
 - 👀 I’m interested in Web Development, Python, interpreters and programming in general
