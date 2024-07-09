@@ -4,7 +4,7 @@
 - 👀 I’m interested in Web Development, Python, C, interpreters and low-level learning
 - 🌱 I'm currently learning C
 - 💞️ I’m looking to collaborate on *simple* python, C and HTML/CSS projects
-- 📫 How to reach me : my discord is `_.gugu._`
+- 📫 How to reach me : my discord is `_.gugu._`, my e-mail is `gugu256@mail.com` (not @gmail.com, mail.com is an actual e-mail service)
 
 <!---
 gugu256/gugu256 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
